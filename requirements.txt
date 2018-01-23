@@ -1,0 +1,3 @@
+Django
+git+https://github.com/egorsmkv/django-bootstrap4.git@3db2fff7ef7fdc7580c6c38a68968b658a005f67
+gunicorn
